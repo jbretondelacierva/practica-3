@@ -33,3 +33,5 @@ Y por ultimo he puesto un script de una grafica del precio de la accion. Y por u
 
 #### carpeta informes: ``/informes``
 En esta carpeta hay 6 informes anuales de los resultados de Inditex, esta carpeta es usada por la subpagina inversores.html que incluye informacion para inversores.
+
+### DATO A TENER EN CUENTA: NO HE USADO TEMPLATES, TODO A MANO.

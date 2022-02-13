@@ -21,11 +21,15 @@ a la web oficial. Las cards se adaptan genial a los diferentes tamaños de panta
 Como no tengo conocimientos aun de JS, he puesto el video cubriendo todo el background, manteniendo el menu de arriba.
 
 #### Sub-página 2: ``contact.html``
-
+Dentro de un card meto un formulario sencillo. Con el fondo gradiente y la card centrada queda muy bien.
 #### Sub-página 3: ``empleo.html``
-
+Aqui uso un card dark, y en el body meto un formulario de una linea. Gracias a la logica de columnas queda muy bien.
+En el siguiente container tengo un formulario para mandar el cv en una card.
+Despues tengo varios container dentro de la id trabajo, donde explico la dinamica de trabajo de inditex.
 #### Sub-página 4: ``inversores.html``
-
+En el primer container pongo datos financieros dentro de una tabla. Para que quede bien lo meto tambien la informacion en una card.
+En el segundo hago la misma dinamica, pero pongo links de descarga de informes anuales.
+Y por ultimo he puesto un script de una grafica del precio de la accion. Y por ultimo acompaño con numeros de contacto para accionistas e inversores.
 
 #### carpeta informes: ``/informes``
-En esta carpeta hay 6 informes anuales de los resultados de Inditex, esta carpeta es usada por la subpagina info.html que incluye informacion para inversores.
+En esta carpeta hay 6 informes anuales de los resultados de Inditex, esta carpeta es usada por la subpagina inversores.html que incluye informacion para inversores.
